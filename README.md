@@ -9,11 +9,14 @@ cd chat-app
 2. Install dependencies
 Backend:
 cd server
+
 npm install
-3. Run the application
+4. Run the application
 Backend:
 cd server
+
 npm run dev
+
 Frontend:
 cd ../client
 npm start
