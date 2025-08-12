@@ -1,4 +1,4 @@
-#Online Chat Application
+# Online Chat Application
 
 A full stack real-time chat application built with modern web technologies. This project allows users to register, log in, and chat with each other in real-time.
 
