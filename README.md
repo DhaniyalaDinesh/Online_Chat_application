@@ -18,14 +18,5 @@ A full stack real-time chat application built with modern web technologies. This
 **Backend:** Node.js, Express, MongoDB, Socket.io, JWT  
 **Database:** MongoDB 
 
----
 
-## 📦 Installation
 
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/yourusername/chat-app.git
-cd chat-app
-
-### 2.Install Dependencies
